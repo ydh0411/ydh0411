@@ -1,4 +1,7 @@
-I am Yue Donghan, an undergraduate student at the University of Electronic Science and Technology of China (UESTC), majoring in Communication Engineering. My research focuses on diffusion MRI and medical image analysis.
+<h3>Undergraduate researcher — diffusion MRI &amp; medical image analysis.</h3>
+
+🎓 B.Eng. Communication Engineering @ [UESTC](https://www.uestc.edu.cn)  
+🔬 Research focus: **dMRI**, microstructural imaging, deep learning for medical image analysis
 
 ---
 
