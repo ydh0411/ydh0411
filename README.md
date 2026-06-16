@@ -1,4 +1,4 @@
-**Undergraduate researcher — diffusion MRI & medical image analysis.**
+<h3>Undergraduate researcher — diffusion MRI &amp; medical image analysis.</h3>
 
 🎓 B.Eng. Communication Engineering @ [UESTC](https://www.uestc.edu.cn)  
 🔬 Research focus: **dMRI**, microstructural imaging, deep learning for medical image analysis
@@ -20,12 +20,12 @@ Python · PyTorch · C/C++ · MATLAB · LaTeX · DIPY · NIfTI · DICOM · Git �
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ydh0411&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydh0411&layout=compact&hide_border=true&langs_count=6&hide_title=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ydh0411&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=issues" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydh0411&layout=compact&hide_border=true&langs_count=6&hide_title=true" height="140" />
 </p>
 
 ---
 
 <p align="right">
-  <sub><a href="mailto:ydh0411@outlook.com">ydh0411@outlook.com</a></sub>
+  <a href="mailto:ydh0411@outlook.com">ydh0411@outlook.com</a>
 </p>
