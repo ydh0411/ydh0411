@@ -1,8 +1,21 @@
-Undergraduate researcher @ UESTC — diffusion MRI & medical image analysis.
+**Undergraduate researcher — diffusion MRI & medical image analysis.**
 
-**Research:** dMRI &nbsp;·&nbsp; microstructure imaging &nbsp;·&nbsp; medical image computing  
-**Stack:** Python &nbsp;·&nbsp; PyTorch &nbsp;·&nbsp; C/C++ &nbsp;·&nbsp; MATLAB &nbsp;·&nbsp; LaTeX  
-**Imaging:**  DIPY &nbsp;·&nbsp; NIfTI &nbsp;·&nbsp; DICOM
+🎓 B.Eng. Communication Engineering @ [UESTC](https://www.uestc.edu.cn)  
+🔬 Research focus: **dMRI**, microstructural imaging, deep learning for medical image analysis
+
+---
+
+### Research
+
+Diffusion MRI signal modeling, microstructure parameter estimation, and data-driven approaches to tissue characterization.
+
+`dMRI` `Microstructure Imaging` `Medical Image Analysis` `Deep Learning`
+
+---
+
+### Tech
+
+Python · PyTorch · C/C++ · MATLAB · LaTeX · DIPY · NIfTI · DICOM · Git · Linux
 
 ---
 
