@@ -26,10 +26,12 @@ My interests sit between medical imaging, deep learning, and hands-on engineerin
 
 ### Research Interests
 
-`Diffusion MRI` `Microstructure Imaging` `Medical Image Analysis` `Deep Learning` `Reproducible Workflows`
+`Diffusion MRI` `Microstructure Imaging` `Medical Image Analysis` `Deep Learning` `Multimodal Learning` `Embedded Systems` `Reproducible Workflows`
 
 - Diffusion MRI signal modeling and microstructure-related imaging.
 - Deep learning for anatomical brain parcellation and medical image analysis.
+- Multimodal token fusion and modality-competitive attention for medical imaging.
+- Embedded sensing systems for healthcare applications (STM32, ESP32).
 - Practical tooling for lab reports, data processing, and research notes.
 
 ### Selected Work
@@ -52,6 +54,9 @@ My interests sit between medical imaging, deep learning, and hands-on engineerin
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell">
 </p>
 
 Medical imaging tools and formats I am working with: `DIPY`, `nibabel`, `NIfTI`, `DICOM`, `3D Slicer`.
@@ -61,6 +66,10 @@ Medical imaging tools and formats I am working with: `DIPY`, `nibabel`, `NIfTI`,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ydh0411&show_icons=true&hide_border=true&rank_icon=github&hide=issues&theme=transparent" height="145" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydh0411&layout=compact&hide_border=true&langs_count=6&theme=transparent" height="145" alt="Top languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydh0411&hide_border=true&theme=transparent" height="145" alt="GitHub streak">
 </p>
 
 ---
